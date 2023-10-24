@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clientes>
+    <cliente cedula="402510268">
+        <prestamos>
+            <prestamos>
+                <cuota>10273.0</cuota>
+                <ID>123</ID>
+                <mesesrestantes>12</mesesrestantes>
+                <monto>70000</monto>
+                <montoOriginal>70000</montoOriginal>
+                <montoconIntereses>123276.0</montoconIntereses>
+                <plaso>12</plaso>
+            </prestamos>
+        </prestamos>
+        <canton>Perez Zeledon</canton>
+        <distrito>Daniel Flores</distrito>
+        <nombre>Marck Rojas</nombre>
+        <provincia>San Jose</provincia>
+    </cliente>
+    <cliente cedula="118410933">
+        <prestamos>
+            <prestamos>
+                <cuota>13776.0</cuota>
+                <ID>345</ID>
+                <mesesrestantes>6</mesesrestantes>
+                <monto>60000</monto>
+                <montoOriginal>60000</montoOriginal>
+                <montoconIntereses>82656.0</montoconIntereses>
+                <plaso>6</plaso>
+            </prestamos>
+        </prestamos>
+        <canton>Escazu</canton>
+        <distrito>San Antonio</distrito>
+        <nombre>Emanuel Perez</nombre>
+        <provincia>San Jose</provincia>
+    </cliente>
+</clientes>
